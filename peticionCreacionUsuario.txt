@@ -1,0 +1,140 @@
+{
+    "transactionDigitalInput": {
+        "listOfTransactionHomeActivator": {
+            "transactionHomeActivator": {
+                "sequence": "1",
+                "idTransaction": "INT6565",
+                "idOrderChannel": "DD89898",
+                "salesChannel": "PORTAL DIGITAL",
+                "salesAdvisor": "PORTAL DIGITAL",
+                "transaction": "NUEVO",
+                "idFavorite": "1-56BFU4F3",
+                "serviceUse": "RESIDENCIAL",
+                "listOfClientHomeActivator": {
+                    "clientHomeActivator": [
+                        {
+                            "documentType": "CC",
+                            "documentNum": "3234345",
+                            "expeditionDateDocument": "01/01/1986",
+                            "firstName": "Juan",
+                            "secondName": "juan",
+                            "secondSurname": "Torres",
+                            "surname": "Perez",
+                            "landLine": "9856545",
+                            "mobilePhone": "3125263569",
+                            "email": "prueba@prueba.com",
+                            "email2": "email2",
+                            "accountType": "CLIENTE",
+                            "handlingDataAuthorizes": "Y",
+                            "dateHandlingData": "07/09/2020",
+                            "countryCode": "57",
+                            "departmentCode": "68",
+                            "municipalityCode": "68001000",
+                            "neighborhoodCode": "001311",
+                            "sectorCode": "sectorCode",
+                            "gisAddress": "CL 45 # 29 - 12 AP 1023",
+                            "naturalAddress": "Calle 45 29 1023",
+                            "alternateAddress": "alternateAddress",
+                            "idGis": "14310658789",
+                            "gisState": "M",
+                            "latitude": "7.1256833",
+                            "longitude": "-73.1160507",
+                            "complement": "Complement",
+                            "dirProviderCode": "0400000000CL000320290000000000000000012000000000000000000000000000000000000000000000000",
+                            "remainder": "remainder",
+                            "licensePlate": "12",
+                            "urbanization": "urbanization",
+                            "urbanizationCode": "1",
+                            "urbanizationType": "urbanizationType",
+                            "stratum": "4",
+                            "idLocation": "Urbana",
+                            "idProperty": "68001100131121021",
+                            "communeCode": "communeCode"
+                        }
+                    ]
+                },
+                "listOfComponentHomeActivator": {
+                    "componentHomeActivator": [
+                        {
+                            "serviceId": "serviceId",
+                            "productComponentId": "productComponentId",
+                            "equipmentId": "equipmentId",
+                            "action": "action",
+                            "productComponentParentId": "productComponentParentId",
+                            "listOfAttributesHomeActivator": {
+                                "attributesHomeActivator": [
+                                    {
+                                        "atributes": "Atributes",
+                                        "attributesValue": "AttributesValue"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "listOfValGeneralHomeActivator": {
+                    "valGeneralHomeActivator": [
+                        {
+                            "name": "OFE_EMAIL",
+                            "value": "Y"
+                        },
+                        {
+                            "name": "OFE_CORREO_FISICO",
+                            "value": "N"
+                        },
+                        {
+                            "name": "OFE_FACTURA_WEB",
+                            "value": "Y"
+                        },
+                        {
+                            "name": "OFE_SMS",
+                            "value": "Y"
+                        },
+                        {
+                            "name": "COB_HFC",
+                            "value": "1"
+                        },
+                        {
+                            "name": "COB_TIPO_HFC",
+                            "value": "HFC-BIDI"
+                        },
+                        {
+                            "name": "COB_PAG_ANTICIPO",
+                            "value": "Y"
+                        },
+                        {
+                            "name": "SCO_CUPO",
+                            "value": "100000"
+                        },
+                        {
+                            "name": "SCO_ESTADO",
+                            "value": "APROBADO"
+                        },
+                        {
+                            "name": "SCO_NIVEL_RIESGO"
+                        },
+                        {
+                            "name": "SCO_MOTIVO",
+                            "value": "SCORING"
+                        },
+                        {
+                            "name": "SCO_FECHA",
+                            "value": "07/10/2020"
+                        },
+                        {
+                            "name": "LEG_ESTADO",
+                            "value": "APROBADO"
+                        },
+                        {
+                            "name": "LEG_DESCRIPCION"
+                        },
+                        {
+                            "name": "CMP_ACEPTO",
+                            "value": "Y"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
